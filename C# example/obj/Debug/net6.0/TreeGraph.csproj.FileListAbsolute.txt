@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\bin\Debug\net6.0\TreeGraph.exe
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\bin\Debug\net6.0\TreeGraph.deps.json
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\bin\Debug\net6.0\TreeGraph.runtimeconfig.json
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\bin\Debug\net6.0\TreeGraph.dll
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\bin\Debug\net6.0\TreeGraph.pdb
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\TreeGraph.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\TreeGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\TreeGraph.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\TreeGraph.AssemblyInfo.cs
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\TreeGraph.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\TreeGraph.dll
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\refint\TreeGraph.dll
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\TreeGraph.pdb
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\TreeGraph.genruntimeconfig.cache
+C:\Users\pc\Desktop\TreeMaker\TreeGraph\obj\Debug\net6.0\ref\TreeGraph.dll
