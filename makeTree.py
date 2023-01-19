@@ -49,7 +49,8 @@ class Tree:
 
 	def to_lines(self):
 		lines = []
-		self.__to_lines(self.root, "", lines)
+		for node in self.tree[root]:
+			self.__to_lines(node, root, lines)
 		return "\n".join(lines)
 
 	def save(self, file):
@@ -103,8 +104,10 @@ if new.lower() == 'n':
 	tree = Tree.open(input("Enter the filename: "))
 
 command = ""
-while command.lower() != "exit":
+while True:
 	command = input()
+	if command.lower() == "exit":
+		exit(0)
 	if command.lower() == 'help':
 		print("add <par>: <node1>, <node2>...\n"+
 			  "add node    - create new node according to the node name and the parent name\n"+

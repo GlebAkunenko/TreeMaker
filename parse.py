@@ -17,7 +17,6 @@ def from_lines(lines : list[str]):
 	for line in lines:
 		add_line(line)
 
-	del tree['']
 	return tree
 
 def from_file(file):
